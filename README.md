@@ -7,7 +7,8 @@
     ¡Bienvenido/a a mi repositorio de proyectos de Desarrollo de Aplicaciones Web!
 </p> 
  
-   
+
+
 ### 🌷 Sobre mí :
 Estudiante y apasionada de la tecnología entregada a este recorrido donde el aprendizaje forma parte del día a día. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: Actualmente soy estudiante de CFGS de Desarrollo de Aplicaciones Web (DAW) 
@@ -16,7 +17,7 @@ Estudiante y apasionada de la tecnología entregada a este recorrido donde el ap
 
 * 💖 Me encanta que mi herramienta de estudio sea aquello con lo que siempre he amado pasar horas. 
 
-* :mailbox: ¿Quieres contactar conmigo?  [![Linkedin Badge](https://img.shields.io/badge/-Priscila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priscilaluis/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Priscila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priscilaluis/)
 
 ---
 
