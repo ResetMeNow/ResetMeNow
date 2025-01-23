@@ -21,7 +21,7 @@ Estudiante y apasionada de la tecnología entregada a este recorrido donde el ap
 
 :telescope: Actualmente soy estudiante de CFGS de Desarrollo de Aplicaciones Web (DAW) 
 
-:seedling: Estoy estudiando y practicando `.Javascript`, `.HTML`, `.CSS` y `.Java`. 
+:seedling: Estoy estudiando y practicando `Javascript`, `HTML`, `CSS` y `Java`. 
 
 :mailbox: ¿Quieres contactar conmigo? 
 <a href="https://www.linkedin.com/in/priscilaluis/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ee769e73-c5d4-49e1-b965-2491fd6d122b" alt="linkedin" height="30" width="30" /></a>
