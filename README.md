@@ -3,7 +3,7 @@
   
   <img decoding="async" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk3N3pkMW1nbjI2cWFkdGp1dXY4cXd2enhoNmtlMHBxdjNqamJ4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif" width="100px"/>
 </h1>
----
+___________________________________________________________________
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
