@@ -8,8 +8,10 @@
 </p> 
 
 <div align="center">
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=50&duration=2000&pause=3000&color=8C63D59D&center=true&vCenter=true&width=435&lines=%C2%A1Bienvenido%2Fa+a+mi+GitHub!)](https://git.io/typing-svg)
+
 
 
 ### 🌷 Sobre mí : ###
@@ -21,9 +23,10 @@ Estudiante y apasionada de la tecnología entregada a este recorrido donde el ap
 
 :seedling: Estoy estudiando y practicando `.Javascript`, `.HTML`, `.CSS` y `.Java`. 
 
-💖 Me encanta que mi herramienta de estudio sea aquello con lo que siempre he amado pasar horas. 
+:mailbox: ¿Quieres contactar conmigo? 
+<a href="https://www.linkedin.com/in/priscilaluis/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ee769e73-c5d4-49e1-b965-2491fd6d122b" alt="linkedin" height="30" width="30" /></a>
 
-:mailbox: ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/priscilaluis/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ee769e73-c5d4-49e1-b965-2491fd6d122b" alt="linkedin" height="30" width="30" /></a>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ciweni7monl3ia7i8x4bb10cu&count=1)
 
 ---
 ⚙ Lenguajes y herramientas : 
