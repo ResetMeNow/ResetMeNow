@@ -7,7 +7,7 @@
     ¡Bienvenido/a a mi repositorio de proyectos de Desarrollo de Aplicaciones Web!
 </p> 
  
-  ![Black Playful Animated Welcome Channel Youtube Intro Video](https://github.com/user-attachments/assets/62a765fd-2616-4f76-8213-ba78fccacea1)
+   
 ### 🌷 Sobre mí :
 Estudiante y apasionada de la tecnología entregada a este recorrido donde el aprendizaje forma parte del día a día. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: Actualmente soy estudiante de CFGS de Desarrollo de Aplicaciones Web (DAW) 
