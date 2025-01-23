@@ -1,7 +1,6 @@
-## Hi there 👋
 <h1>
   Hola soy Priscila. ¡Encantada de conocerte!
-  <img decoding="async" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZxMDdlcDBxcHNsdGV1dTVrMHV4c2toN2tqOWt2emJtNTRhM25keCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="50px"/>
+  <img decoding="async" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZxMDdlcDBxcHNsdGV1dTVrMHV4c2toN2tqOWt2emJtNTRhM25keCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="50px"/>https://github.com/ResetMeNow/ResetMeNow/blob/main/README.md
 </h1>
 ---
  <div id="header" align="left">
@@ -14,5 +13,5 @@ Estudiante y apasionada de la tecnología entregada a este recorrido donde el ap
 
 * :heartbeat: Me encanta que mi herramienta de estudio sea aquello con lo que siempre he amado pasar horas, los ordenadores y la tecnología.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/Priscila Luis)](https://www.linkedin.com/in/priscilaluis/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Priscila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priscilaluis/)
 
