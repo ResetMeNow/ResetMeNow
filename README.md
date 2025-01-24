@@ -26,11 +26,29 @@ Estudiante y apasionada de la tecnología entregada a este recorrido donde el ap
 :mailbox: ¿Quieres contactar conmigo? 
 <a href="https://www.linkedin.com/in/priscilaluis/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ee769e73-c5d4-49e1-b965-2491fd6d122b" alt="linkedin" height="30" width="30" /></a>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ciweni7monl3ia7i8x4bb10cu&count=1)
-
 ---
-⚙ Lenguajes y herramientas : 
- ---
+⚙Lenguajes y herramientas:
+-
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="50" alt="git" />
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50" alt="intellij" />
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  height="50" alt="linux" />
+         
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="node" />
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="50" alt="notion" />
+                  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" height="50" alt="trello" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="50" alt="visualstudio" />
+          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="50" alt="xml" />
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" height="50" alt="apache" />
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java"  />
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
