@@ -59,9 +59,6 @@ Estudiante y apasionada de la tecnología entregada a este recorrido donde el ap
 
 ---
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=ResetMeNow&show_icons=true&theme=gotham#gh-dark-mode-only" />
 </a>
