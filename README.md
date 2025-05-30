@@ -75,7 +75,7 @@ Estudiante y apasionada de la tecnología entregada a este recorrido donde el ap
 
 <div align="center">
   
-![github-user-contribution](https://github.com/user-attachments/assets/6384524e-30cd-46ed-8c9e-ddfae16de29c)
+![snake gif](https://github.com/ResetMeNoW/ResetMeNow/blob/output/github-snake-dark.svg)
 
 </div>
 
