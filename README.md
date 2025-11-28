@@ -21,7 +21,6 @@ Estudiante y apasionada de la tecnología entregada a este recorrido donde el ap
 
 :telescope: Actualmente soy estudiante de CFGS de Desarrollo de Aplicaciones Web (DAW) 
 
-:seedling: Estoy estudiando y practicando `Javascript`, `HTML`, `CSS` y `Java`. 
 
 :mailbox: ¿Quieres contactar conmigo? 
 <a href="https://www.linkedin.com/in/priscilaluis/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ee769e73-c5d4-49e1-b965-2491fd6d122b" alt="linkedin" height="30" width="30" /></a>
@@ -45,8 +44,6 @@ Estudiante y apasionada de la tecnología entregada a este recorrido donde el ap
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="50" alt="visualstudio" />
           
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" height="50" alt="apache" />
-          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java"  />
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
@@ -57,9 +54,6 @@ Estudiante y apasionada de la tecnología entregada a este recorrido donde el ap
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=ResetMeNow&show_icons=true&theme=gotham#gh-dark-mode-only" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResetMeNow&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
 </a>
