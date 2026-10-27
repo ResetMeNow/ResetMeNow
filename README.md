@@ -19,7 +19,7 @@
 
 Estudiante y apasionada de la tecnología entregada a este recorrido donde el aprendizaje forma parte del día a día. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-:telescope: Actualmente soy estudiante de CFGS de Desarrollo de Aplicaciones Web (DAW) 
+:telescope: Frontend 
 
 
 :mailbox: ¿Quieres contactar conmigo? 
