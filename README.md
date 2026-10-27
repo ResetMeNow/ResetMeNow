@@ -17,7 +17,7 @@
 ### 🌷 Sobre mí : ###
 
 
-Estudiante y apasionada de la tecnología entregada a este recorrido donde el aprendizaje forma parte del día a día. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Apasionada de la tecnología entregada a este recorrido donde el aprendizaje forma parte del día a día. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 :telescope: Frontend 
 
